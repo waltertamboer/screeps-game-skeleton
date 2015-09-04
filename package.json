@@ -1,6 +1,6 @@
 {
-  "name": "screeps-game",
-  "description": "Screeps game logic code.",
+  "name": "screeps-game-skeleton",
+  "description": "A skeleton to create screeps game logic code.",
   "private": true,
   "license": "MIT",
   "version": "0.0.0",
@@ -13,11 +13,12 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-jscs": "^1.8.0",
     "grunt-jsonlint": "^1.0.4",
+    "grunt-screeps": "^1.1.0",
     "load-grunt-config": "^0.17.1",
     "requirejs": "2.1.15"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/waltertamboer/screeps-game.git"
+    "url": "https://github.com/waltertamboer/screeps-game-skeleton.git"
   }
 }
